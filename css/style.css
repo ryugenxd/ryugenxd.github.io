@@ -31,5 +31,8 @@ section{
 .navigasi{
 	display:flex;
 	justify-content:flex-start;
+	align-items:center;
+	height:100%;
+	z-index:1;
 }
 
