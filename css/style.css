@@ -29,6 +29,7 @@ section{
 	left:0;
 }
 .navigasi{
-	
+	display:flex;
+	justify-content:flex-start;
 }
 
