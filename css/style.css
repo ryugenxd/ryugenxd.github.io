@@ -55,7 +55,7 @@ section{
 	text-decoration:none;
 	font-weight:bold;
 }
-.contentwrapper{
+.content-wrapper{
 	display:flex;
 	/*align-content:center;
 	align-items:center;*/
