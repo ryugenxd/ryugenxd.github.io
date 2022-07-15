@@ -35,4 +35,9 @@ section{
 	height:100%;
 	z-index:1;
 }
-
+.nav{
+	list-style-type:none;
+	padding:20px;
+	margin:5px;
+	cursor:pointer;
+}
