@@ -41,3 +41,8 @@ section{
 	margin:5px;
 	cursor:pointer;
 }
+.nav:hover{
+	background-color:#eaeaea;
+	border-radius:10px;
+	trasition:all ease-in-out 0.4s;
+}
