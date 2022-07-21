@@ -13,4 +13,6 @@ html{
 .navi-container{
 	position:fixed;
 	background:#333;
+	height:100px;
+	width:100%;
 }
